@@ -42,9 +42,9 @@ export default function Home() {
       <p>Para consultar a disponibilidade, <b>clique em comprar</b>. Você será redirecionada para uma de nossas atendentes.</p>
 
       <ul>
-        <li><a href="https://www.instagram.com/rrmakeup.ofc/"><i class="fab fa-instagram" target="_blank"></i>Instagram </a></li>
+        <li><a href="https://www.instagram.com/sonhodealgodaopijama/"><i class="fab fa-instagram" target="_blank"></i>Instagram </a></li>
         <li><a href="#"><i class="fab fa-whatsapp" target="_blank"></i> WhatsApp</a></li>
-        <li><a href="https://goo.gl/maps/iPZZuzpyfrKhpoE39" target="_blank"><i class="fas fa-map-marker-alt"></i> Como chegar</a></li>
+        <li><a href="https://goo.gl/maps/77nyMVxx4jqonT9s5" target="_blank"><i class="fas fa-map-marker-alt"></i> Como chegar</a></li>
       </ul>
 
     </div>
@@ -171,7 +171,7 @@ export default function Home() {
       <footer>
         <Container>
 
-          <p>R. Alberto Tôrres, 5 - Centro, Itaboraí - RJ</p>
+          <p>Rua Anne Frank, 3997 - Boqueirão, Curitiba - PR</p>
 
             <a
               href="https://instagram.com/gustavoscafeli"
